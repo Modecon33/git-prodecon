@@ -1,2 +1,3 @@
 page d'accuel
 modification du fichier
+insertion d'une barre de navigation
